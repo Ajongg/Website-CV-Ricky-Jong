@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>CV RICKY JONG</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD"
+      crossorigin="anonymous"
+    />
+
+    <link rel = "stylesheet" href = "psw/style.css">
+  </head>
+  <body>
+    <!--Navbar-->
+    <nav
+      class="navbar navbar-expand-lg navbar-dark shadow-sm fixed-top"
+      style="background-color: deeppink"
+    >
+      <div class="container">
+        <a class="navbar-brand" href="#">Ricky Jong</a>
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarNav"
+          aria-controls="navbarNav"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav ms-auto">
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="#">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">About Me</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Social Media</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <!--End Navbar-->
+
+    <!--jumbotron-->
+    <section class="jumbotron text-center">
+      <img
+        src="psw/img/WhatsApp Image 2023-03-20 at 21.38.33.jpeg"
+        alt="Ricky Jong"
+        width="100"
+        class="rounded-circle"
+      />
+      <h1 class="display-4">Ricky Jong</h1>
+      <p class="lead" style="padding-bottom: 50px">
+        Admin Accounting | College Student
+      </p>
+    </section>
+    <!--End jumbotron-->
+
+    <!--About Me-->
+    <section id="about">
+      <div class="text-center">
+        <h2>About Me</h2>
+      </div>
+      <div class="container text-center">
+        <div class="row">
+          <div class="col-md">
+            <p>
+              Hai namaku Ricky Jong asal Batam. Sekarang sedang kerja sambil
+              kuliah mengambil jurusan Sistem Informasi. Ini adalah CV pertama
+              yang kubuat
+            </p>
+          </div>
+          <div class="col-md">
+            Pekerjaan sebagai seorang admin accounting di suatu perusahaan.
+            Setelah kerja akan langsung kuliah di UIB sampai malam
+          </div>
+        </div>
+      </div>
+    </section>
+    <!--End About Me-->
+
+    <div>
+      <h2 class="text-center" style="margin-top: 100px">My Social Media</h2>
+    </div>
+    <!--Social Media-->
+    <section id="social_media">
+      <div class="container">
+        <div class="container text-center" style="margin-bottom: 100px">
+          <div class="row" style="margin-top: 50px">
+            <div class="col-md-6">
+              <div style="display: flex; justify-content: center">
+                <div style="width: 40%">
+                  <img src="psw/img/logo-wa-whatsapp-300x300.png" width="80px" />
+                  <div class="card-body">
+                    <p class="card-text">0852-7455-6898</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div style="display: flex; justify-content: center">
+                <div style="width: 40%">
+                  <img
+                    src="psw/img/899cfc913e7d5a95a6bb3b40eb8ae677.jpg"
+                    width="80px"
+                  />
+                  <div class="card-body">
+                    <p class="card-text">@rickyjongg</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!--End Social Media-->
+
+    <!--Footer-->
+    <footer
+      class="bg-primary text-white text-center p-3"
+      style="min-height: 50vh"
+    >
+      <p>
+        Created by Ricky Jong
+        <a href="" class="text-white-fw-bold">Ricky Jong</a>
+      </p>
+    </footer>
+    <!--end footer-->
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN"
+      crossorigin="anonymous"
+    ></script>
+
+    <link rel="stylesheet" href="style.css" />
+  </body>
+</html>

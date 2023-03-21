@@ -1,0 +1,17 @@
+*{
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+
+
+
+
+
+
+
+.jumbotron {
+padding-top: 100px;
+ background-color: #f8e5e5;
+}
+
